@@ -5,4 +5,4 @@ I'm Francisco and this account is a show case of stuff that I love working on
 - 🌱 I’m currently learning Microservices with ASP.NET Core | Angular | MongoDB | Docker
 - 💬 Ask me about anything (within reason)
 - 📫 How to reach me: faoe2003@gmail.com
-- 🎁 My official LinkedIn: https://www.linkedin.com/in/francisco-oro/
+- 🏑 [My HackerRank Profile](https://www.hackerrank.com/profile/francisco_oro)
