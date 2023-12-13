@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/francisco-oro](https://github.com/francisco-oro)
 
-- 💬 Ask me about **Back-End Development & Analytics Engineering**
+- 💬 Ask me about **Software Development & Analytics Engineering**
 
-- 📫 How to reach me **faoe2003@gmail.com**
+- 📫 How to reach me **franciscoabimaeloroestrada@gmail.com**
 
-- ⚡ Fun fact **I spend more time eating than sleeping**
+- ⚡ Fun fact **I'd walk a mile for a [Guajolota](https://elgourmet.com/recetas/torta-de-tamal-guajolota/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
