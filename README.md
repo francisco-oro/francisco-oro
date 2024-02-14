@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/francisco-oro](https://github.com/francisco-oro)
 
-- 💬 Ask me about **Software Development & Analytics Engineering**
+- 💬 Ask me about **Software Development & Sotftware Architecture**
 
 - 📫 How to reach me **franciscoabimaeloroestrada@gmail.com**
 
