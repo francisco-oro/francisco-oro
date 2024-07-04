@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">This account is a showcase of the stuff that I love working on</h3>
 
-- 🔭 I’m currently working on [Phionira Online Academy](https://phionira.com/)
-
 - 🌱 I’m currently learning **Microservices with ASP.NET Core | Angular | MongoDB | Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/francisco-oro](https://github.com/francisco-oro)
